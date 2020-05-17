@@ -1,4 +1,5 @@
 ---
+
 title: "Captain's Log"
 date: 2020-05-17
 
